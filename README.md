@@ -1,3 +1,3 @@
-iOS Developer
-Diving deeply into Machine Learning.
-primacy languages: Swift + Python
+Software Developer
+Swift + Kotlin + Python
+Machine Learning, Mobile Application Development 
