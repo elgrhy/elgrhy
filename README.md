@@ -1,3 +1,3 @@
 Machine Learning Engineer
-Swift + Kotlin + Python
-Machine Learning, Mobile Application Development 
+Swift + Kotlin + Python + Dart
+Machine Learning, Mobile Application Development
