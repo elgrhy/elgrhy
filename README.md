@@ -1,3 +1,4 @@
-Machine Learning Engineer =>
-Swift + Kotlin + Python + Dart =>
-Machine Learning, Mobile Application Development
+Neural Architect in Training 🧠
+ML / Mobile apps - Python / Swift / Dart
+Studying Neural Architecture Search NAS 🔍
+Passionate about AI💡
