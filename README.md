@@ -1,4 +1,4 @@
-Neural Architect in Training 🧠
-ML / Mobile apps - Python / Swift / Dart
-Studying Neural Architecture Search NAS 🔍
-Passionate about AI💡
+Machine Learning Engineer && researcher 
+Python: ML, Data Science & AI 
+JavaScript || Typescript: Web Development 
+Swift && Kotlin || Dart: Mobile Apps
