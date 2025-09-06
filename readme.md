@@ -1,4 +1,3 @@
-```markdown
 # 👨‍💻 Ahmed Elgarhy — Director & System Architect  
 
 ![Role](https://img.shields.io/badge/Role-Director%20%26%20System%20Architect-blue)  
@@ -76,4 +75,3 @@ Since starting in **2004 as a web developer**, my focus has evolved into buildin
 ---
 
 ⭐️ *Let’s build the future of **autonomous, intelligent systems** together.*
-```
