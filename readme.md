@@ -1,72 +1,79 @@
-# Ahmed Elgarhy - Machine Learning Engineer and Researcher
+```markdown
+# 👨‍💻 Ahmed Elgarhy — Director & System Architect  
 
-> Hello! I'm Ahmed Elgarhy, a seasoned machine learning engineer and researcher passionate about pushing the boundaries of AI. My journey in the field revolves around groundbreaking research, creating impactful Python packages, and sharing knowledge with the community.
-> 
+![Role](https://img.shields.io/badge/Role-Director%20%26%20System%20Architect-blue)  
+![Company](https://img.shields.io/badge/Company-DEVJSX%20Limited-purple)  
+![Focus](https://img.shields.io/badge/Focus-Rust%20%7C%20AI%20%7C%20Systems%20Architecture-green)  
+![Location](https://img.shields.io/badge/Region-UAE%20%7C%20UK-orange)  
 
-> My Journey started in 2004 as a web developer, contributing to the evolution of technology. My expertise spans machine learning, deep learning, web development, and mobile development, using a diverse set of languages and frameworks.
-> 
+---
 
-# Research Focus
+## 👋 About Me
+I architect **intelligent systems, SaaS ecosystems, and cognitive protocols** at **DEVJSX Limited**.  
 
-> Delving into the forefront of artificial intelligence, my research journey is characterized by a relentless pursuit of innovation and excellence. I specialize in pioneering studies that redefine the possibilities within machine learning. Below are key areas where my research has made substantial contributions, each aimed at pushing the boundaries of AI capabilities and driving the field forward.
-> 
+Since starting in **2004 as a web developer**, my focus has evolved into building **production-grade platforms** (real estate, fintech, and agent networks) and defining **new protocols and languages** for cognitive programming.  
 
-## 🔬 My primary research areas include:
+---
 
-### 1. Advancing Large Language Models through Transfer Learning and Task-Specific Adaptability
+## 🚀 Current Projects
 
-This research introduces a novel architectural framework for large language models (LLMs) designed to enhance efficiency, reduce biases, and facilitate task-specific adaptability. The framework comprises two integral components: the Autopilot System and the Mental Process, supported by a dynamic self-taking mechanism. Leveraging transfer learning, this comprehensive design aims to create not only data-efficient but also adaptable and nuanced language models.
+### 🏢 PropX Suite (Real Estate SaaS — UAE Market)
+- **PropXCRM** → Real estate CRM + **full accounting system**  
+- **PropXManage** → Partner & corporate management  
+- **PropXEngine** → Core automation/healing engine  
+- **PropXLeads** → Lead generation & broker management  
 
-### 2. Layered Filtering Approach for Discovering Optimal Transformers Architectures
+### 💳 PopXPay (Fintech Orchestration)
+- **Payment orchestration** with routing & fraud detection  
+- **Integrations**: Stripe | Checkout.com | Paymob | Mamo | Adyen | Ziina  
+- Built for **UAE/KSA first**, then global rollout  
 
-In this research, titled "Layered Filtering Approach for Discovering Optimal Transformers Architectures," we propose a novel strategy for effectively searching for optimal transformer architectures. The approach involves systematically filtering the search space through a series of layers, each refining the set of architectures to identify the most promising candidates. By progressively narrowing down the options, our goal is to efficiently discover architectures that exhibit superior performance.
+### 🛰 Motherxship (Agent Platform)
+- **Agent control, orchestration, KYC**, and external integrations  
+- Subscription SaaS for **banks & fintechs**  
+- Stack: **Next.js + FastAPI**  
 
-## Python Package - `AdvancedAccelerator`
+### 🤖 Agent Systems
+- **MASON** → Living intelligence core (goals, memory, autonomy, evolution)  
+- **ASTRO** → **Defense & resilience layer** (self-healing, protection, ethical guardrails)  
+- **VOID** → Secure controller & universal fallback (policy gate, recovery, emergency ops)  
 
-I've developed the `AdvancedAccelerator` (https://github.com/elgrhy/advancedneural) Python package, a tool tailored to enhance the efficiency and performance of transformer-based models.
+---
 
-### Key Features:
+## 🧠 Protocols & Languages
+- **GX** → General Cognitive Behavior Language  
+- **LGX** → Logic Generic Exchange (universal YAML logic format)  
+- **MPX** → Mental Processing Exchange (agent cognition, autonomy, resurrection)  
+- **CBXProtect / CBXMail / CBXHost** → Next-gen secure email, hosting & cognitive security  
+- **UCP / UCPX** → Universal Cognition Protocol  
+- **DNKN** → Distributed Neural Knowledge Network  
 
-- **Dropout**: Mitigating overfitting and improving generalization.
-- **Residual Connections**: Facilitating the flow of information through deep networks.
-- **Layer-wise Normalization:** Improving training stability and convergence.
+---
 
-# Technology Stack
+## 🏗 Technology & Architectural Focus
 
-## Machine Learning and Deep Learning Libraries
+### 🔹 Core Engine  
+- **Rust** → Main language for **engines, runtimes, and protocols**  
 
-| TensorFlow | PyTorch | Scikit-learn | Pandas |
-| --- | --- | --- | --- |
-| Keras | Prophet | XGBoost | LightGBM |
+### 🔹 Supportive Layers  
+- **Python** → AI/ML, research, automation tooling  
+- **TypeScript (Next.js)** → SaaS frontends & orchestration layers  
 
-## Web Development
+### 🔹 System Patterns  
+- **Agent Architectures**: Autopilot • Mental Process • DNKN • VOID  
+- **Cloud & Delivery**: Vercel • Firebase • GCP • GitOps • Serverless  
+- **Data**: SQL • MongoDB • Firestore • Local-first storage  
+- **Security**: Keys • Signing • Audit trails • Isolation boundaries  
 
-### Frontend
+---
 
-| React.js | Next.js | Tailwind CSS |
-| --- | --- | --- |
-| Material UI | HTML5 | CSS3 |
+## 🤝 Connect with Me  
 
-### Backend
+📩 **[elgrhydev@gmail.com](mailto:elgrhydev@gmail.com)**  
+📩 **[ahmed@devjsx.com](mailto:ahmed@devjsx.com)**  
+🌐 [www.devjsx.com](https://www.devjsx.com)  
 
-| Node.js | Express.js | MongoDB |
-| --- | --- | --- |
-| Django | Flask | SQL |
+---
 
-## Mobile Development
-
-| Flutter | SWIFTUI |
-| --- | --- |
-| DART | Kotlin |
-
-# Programming Languges
-
-| Python | JavaScript | TypeScript |
-| --- | --- | --- |
-| Swift | Dart | Kotlin |
-
-# Connect with Me
-
-If you're interested in discussing machine learning, AI, or anything related to technology, I'd love to connect! Feel free to reach out through elgrhydev@gmail.com
-
-Let's explore the frontiers of AI together!
+⭐️ *Let’s build the future of **autonomous, intelligent systems** together.*
+```
